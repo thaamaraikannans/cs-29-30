@@ -37,5 +37,3 @@ def calc():
             do_perform_next = False
             print("Thanks")
     return
-
-calc()
